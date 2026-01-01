@@ -1,6 +1,6 @@
-# iterative_zeno.py
+
 """
-Iterative Quantum Zeno simulation for high-efficiency IFM.
+Quantum Zeno simulation for high efficiency IFM.
 Varies cycle count (N) to demonstrate the suppression of the explosion rate.
 """
 
@@ -75,7 +75,7 @@ def plot_zeno_histogram(data):
     
     plt.xlabel('Cycles (N)')
     plt.ylabel('Probability')
-    plt.title('Efficiency Scaling with Zeno Cycles')
+    plt.title('Efficiency increasinging with Zeno Cycles')
     plt.xticks(x_idx, [f"N={n}" for n in data['N']])
     plt.legend()
     plt.grid(axis='y', alpha=0.3)
