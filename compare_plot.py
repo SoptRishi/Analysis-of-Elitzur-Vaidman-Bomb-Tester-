@@ -1,4 +1,4 @@
-# plot_results.py
+
 """
 Plots the theoretical efficiency limit of the EV protocol: P = cos(pi/2N)^(2N).
 """
