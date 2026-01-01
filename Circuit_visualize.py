@@ -1,4 +1,4 @@
-# circuit_generator.py
+
 """
 Utility script to visualize Qiskit circuits for the EV protocol.
 """
