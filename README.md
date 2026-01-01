@@ -90,3 +90,8 @@ In addition to the software simulation, this project proposes a physical analog 
 * **Components:** 50/50 Beam Splitters and Mirrors.
 * **Detection:** Observation of interference fringe visibility on a screen.
 * **The "Bomb":** An opaque object blocking one path to demonstrate the loss of interference.
+
+When bomb(object) is present, it blocks one of the path completely, destroying the superposition. Light reaches the screen alomg the unobstructed path only. No fringe is visible. We can see uniform solid spot.
+When bomb(object) is present, laser travels through both paths. Interference fringes are visible (distinct bright and dark regions).
+Tgis experiment is only an analogy experiment. Single photon sources were not used.
+<img src="MZI.png" width="700" alt="MZI set up">
