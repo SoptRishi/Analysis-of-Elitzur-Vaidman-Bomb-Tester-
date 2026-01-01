@@ -10,22 +10,22 @@ The project demonstrates how quantum mechanics specifically superposition and th
 
 The codebase is organized into four primary Python scripts, each demonstrating a different aspect of the experiment:
 
-* **`basic_simulation.py`**
+* **`single_iteration.py`**
 * Simulates the single-cycle Mach-Zehnder interferometer using Hadamard and CNOT gates.
 * Demonstrates the theoretical limit of **25% efficiency** for interaction-free detection.
 
 
-* **`iterative_zeno.py`**
+* **`multi_iteration.py`**
 * Implements the high-efficiency protocol using Rotation () gates and repeated measurements (Quantum Zeno Effect).
 * Shows how efficiency approaches **100%** as the number of measurement cycles increases.
 
 
-* **`circuit_generator.py`**
+* **`circuit_visualize.py`**
 * Uses Qiskit to visualize the quantum circuits for both the Basic and Iterative setups.
 * Generates the schematic diagrams corresponding to the logical operations of the interferometer components (Beam Splitters, Mirrors, Detectors).
 
 
-* **`plot_results.py`**
+* **`compare_plots.py`**
 * Generates statistical histograms and efficiency trend lines.
 * Reproduces the probability distributions (Success vs. Explosion vs. Inconclusive) expected from quantum theory.
 
