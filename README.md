@@ -24,7 +24,7 @@ The codebase is organized into four primary Python scripts, each analyzing a dif
 ### 3. `compare_plots.py`
 
 * **Function:** Visualizes the theoretical limits of the protocol.
-* **Logic:** Plots the mathematical function .
+* **Logic:** Plots the mathematical function $P_{success} = 1 - (\pi^2 / 4N)$ .
 * **Output:** Generates a clean efficiency trend line graph, providing a theoretical baseline to compare against the stochastic simulation data.
 
 ### 4. `circuit_visualize.py`
@@ -78,7 +78,7 @@ Interaction-free measurement is not just a theoretical paradox; it has paved the
 
 * **Quantum Imaging (Interaction-Free Microscopy):** Imaging extremely sensitive samples (e.g., photosensitive proteins) without exposing them to photons that could damage them.
 * **Counterfactual Quantum Key Distribution (QKD):** Generating a shared encryption key between two parties without physically sending particles across the channel, securing it against eavesdropping.
-* **Optical Component Testing:** Testing the functionality of ultra-sensitive photodetectors without triggering or saturating them.
+* **Optical Component Testing:** Testing the functionality of ultra sensitive photodetectors without triggering or saturating them.
 
 ---
 
@@ -91,7 +91,7 @@ In addition to the software simulation, this project proposes a physical analog 
 * **Detection:** Observation of interference fringe visibility on a screen.
 * **The "Bomb":** An opaque object blocking one path to demonstrate the loss of interference.
 
-When bomb(object) is present, it blocks one of the path completely, destroying the superposition. Light reaches the screen alomg the unobstructed path only. No fringe is visible. We can see uniform solid spot.
-When bomb(object) is present, laser travels through both paths. Interference fringes are visible (distinct bright and dark regions).
+When bomb(object) is present, it blocks one of the path completely, destroying the superposition. Light reaches the screen along the unobstructed path only. No fringe is visible. We can see uniform solid spot.
+When bomb(object) is absent, laser travels through both paths. Interference fringes are visible (distinct bright and dark regions).
 Tgis experiment is only an analogy experiment. Single photon sources were not used.
 <img src="MZI.png" width="700" alt="MZI set up">
