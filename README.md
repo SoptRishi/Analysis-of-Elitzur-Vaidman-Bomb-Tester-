@@ -93,5 +93,5 @@ In addition to the software simulation, this project proposes a physical analog 
 
 When bomb(object) is present, it blocks one of the path completely, destroying the superposition. Light reaches the screen along the unobstructed path only. No fringe is visible. We can see uniform solid spot.
 When bomb(object) is absent, laser travels through both paths. Interference fringes are visible (distinct bright and dark regions).
-Tgis experiment is only an analogy experiment. Single photon sources were not used.
+This experiment is only an analogy experiment. Single photon sources were not used.
 <img src="MZI.png" width="700" alt="MZI set up">
