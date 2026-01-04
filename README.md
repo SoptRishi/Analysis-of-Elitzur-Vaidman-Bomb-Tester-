@@ -54,7 +54,7 @@ This grouped bar chart illustrates the power of the Quantum Zeno Effect. As we i
 ### 3. Theoretical Efficiency Limit
 
 This trend line plots the theoretical limit of Interaction-Free Measurement efficiency using the exact solution. The curve shows that efficiency scales non-linearly with the number of cycles, asymptotically approaching 100%. This serves as the ideal baseline against which our stochastic quantum simulations are validated.
-<img src="efficiency_curve.png" width="700" alt="Efficiency limit curve">
+<img src="limit_comparison.png" width="700" alt="Efficiency limit curve">
 
 ---
 
