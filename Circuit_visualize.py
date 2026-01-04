@@ -1,6 +1,6 @@
 
 """
-Utility script to visualize Qiskit circuits for the EV protocol.
+script to visualize Qiskit circuits for the EV protocol.
 """
 
 import numpy as np
