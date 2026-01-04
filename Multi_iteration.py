@@ -75,7 +75,7 @@ def plot_zeno_histogram(data):
     
     plt.xlabel('Cycles (N)')
     plt.ylabel('Probability')
-    plt.title('Efficiency increasinging with Zeno Cycles')
+    plt.title('Efficiency increasing with Zeno Cycles')
     plt.xticks(x_idx, [f"N={n}" for n in data['N']])
     plt.legend()
     plt.grid(axis='y', alpha=0.3)
