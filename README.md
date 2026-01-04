@@ -96,4 +96,4 @@ In addition to the software simulation, this project proposes a physical analog 
 1. **When the bomb (object) is present:** It blocks one path completely, destroying the superposition. Light reaches the screen along the unobstructed path only. No fringes are visible; instead, a uniform solid spot is observed.
 2. **When the bomb (object) is absent:** Laser light travels through both paths. Interference fringes are visible (distinct bright and dark regions).
 
-*Note: This experiment is a classical wave-optics analogy. True interaction-free measurement requires single-photon sources.*
+*Note: This experiment is a classical analogy. True interaction-free measurement requires single photon sources.*
