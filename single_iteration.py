@@ -1,4 +1,4 @@
-# basic_simulation.py
+
 """
 Simulates the single-shot Elitzur-Vaidman interferometer (N=1).
 Generates statistics for Explosion vs. Interaction-Free Measurement (IFM).
